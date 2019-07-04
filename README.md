@@ -1,29 +1,7 @@
-# vue3-elm
+# 前言
 
-## Project setup
-```
-yarn install
-```
+注：此项目纯属个人练习所用。
 
-### Compiles and hot-reloads for development
-```
-yarn run serve
-```
+### 技术栈
+vue-cli3 + vuex + vue-router + webpack + ES6/7 + axios + sass + flex + svg
 
-### Compiles and minifies for production
-```
-yarn run build
-```
-
-### Run your tests
-```
-yarn run test
-```
-
-### Lints and fixes files
-```
-yarn run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
